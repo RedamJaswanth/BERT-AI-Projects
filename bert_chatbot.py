@@ -21,7 +21,7 @@ def set_background(image_path):
     st.markdown(css, unsafe_allow_html=True)
 
 # Call the function to set the background
-set_background(r"C:\Users\user\Pictures\blank1.jpg")
+set_background(r"C:\Users\user\Pictures\Imgs\4.png")
 
 # Load BERT tokenizer and model
 @st.cache_resource
