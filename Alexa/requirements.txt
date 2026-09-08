@@ -1,0 +1,7 @@
+streamlit
+streamlit-mic-recorder
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+PyAudio
